@@ -1,0 +1,13 @@
+{
+    "name": "Workflow template properties",
+    "description": "kcsuresh CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
