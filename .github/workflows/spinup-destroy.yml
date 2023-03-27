@@ -1,4 +1,5 @@
 name: Configure Azure environment
+run-name: Configure Azure services for application deployement
 
 on:
   pull_request:
